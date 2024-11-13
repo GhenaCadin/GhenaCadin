@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Currently learning DevOps and Cloud Computing in Ironhack.
+Passionate and driven Junior DevOps and Cloud Engineer with a unique background in project management from the film industry, bringing a well-rounded approach to technology, collaboration, and problem-solving. Recently completed comprehensive DevOps training, mastering tools and practices such as CI/CD pipelines, containerization, cloud platforms (AWS/Azure), and automation. Known for my ability to adapt quickly to new challenges and drive efficient solutions, I bring a strategic mindset developed through years of managing complex multimedia projects from conception through delivery. 
+
+Skills: 
+
+DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, Ansible
+Cloud Platforms: AWS, Azure 
+CI/CD & Version Control: Git, GitHub
+Scripting: Bash, Python 
+Monitoring & Logging: Prometheus, Grafana
 
 
 ## 🌐 Socials:
