@@ -3,7 +3,7 @@
 # 💫 About Me:
 Passionate and driven DevOps and Cloud Engineer with a unique background in project management from the film industry, bringing a well-rounded approach to technology, collaboration, and problem-solving. 
 
-Skills: 
+Tech Stack: 
 
 - Containerization & Orchestration: Docker, Kubernetes
 - IaC & Automation: Terraform, Ansible
