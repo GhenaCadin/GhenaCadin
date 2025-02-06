@@ -5,10 +5,11 @@ Passionate and driven DevOps and Cloud Engineer with a unique background in proj
 
 Skills: 
 
-- DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, Ansible
-- Cloud Platforms: AWS, Azure 
-- CI/CD & Version Control: Git, GitHub
-- Scripting: Bash, Python 
+- Containerization & Orchestration: Docker, Kubernetes
+- IaC & Automation: Terraform, Ansible
+- Cloud Platforms: AWS, Azure, GCP
+- CI/CD & Version Control: GitHub, Jenkins
+- Scripting: Bash, PowerShell
 - Monitoring & Logging: Prometheus, Grafana
 
 
