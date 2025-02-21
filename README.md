@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Passionate and driven DevOps and Cloud Engineer with a unique background in project management from the film industry, bringing a well-rounded approach to technology, collaboration, and problem-solving. 
+Passionate DevOps & Cloud Engineer with a strong foundation in project management from the media industry, combining
+technical expertise with a collaborative and problem-solving mindset to drive efficient and scalable solutions.
 
 Tech Stack: 
 
