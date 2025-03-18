@@ -4,17 +4,28 @@
 I specialize in building scalable, secure and automated cloud solutions, helping businesses streamline their infrastructure and accelerate deployments. With expertise in cloud platforms, IaC and CI/CD, I connect development and operations to ensure high availability, reliability, and performance. My background in project management allows me to bridge the gap between technical teams and business needs, ensuring efficient delivery and scalability.
 
 🔹 What I Do:
+
 ✅ Cloud Migration & Infrastructure as Code (IaC): Designing and provisioning infrastructure with Terraform and Ansible for repeatability and scalability.
+
 ✅ Containerization & Orchestration: Deploying applications with Docker and managing workloads with Kubernetes (EKS) for resilience and efficiency.
+
 ✅ CI/CD & Automation: Building robust deployment pipelines, reducing manual efforts and accelerating release cycles.
+
 ✅ Monitoring & Observability: Implementing Prometheus and Grafana for real-time system insights, ensuring proactive issue resolution.
 
+
 Tech stack:
+
 IaC: Terraform, Ansible
+
 Containerization & Orchestration: Docker, Kubernetes
+
 Cloud Platforms: AWS, Azure, GCP
+
 CI/CD & Version Control: GitHub, GitHub Actions, Jenkins
+
 Scripting: Bash, PowerShell
+
 Monitoring & Logging: Prometheus, Grafana, CloudWatch
 
 
